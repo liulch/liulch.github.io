@@ -18,7 +18,7 @@ My work has appeared in American Journal of Political Science, Political Analysi
 
   
 <p>
-<font size="4">My most recent CV can be downloaded</font><font size="4"><a href="https://liulch.github.io/CV_Liu.pdf">here</a></font><font size="4">.<br>
+<font size="4">My most recent CV can be downloaded</font> <font size="4"><a href="https://liulch.github.io/CV_Liu.pdf">here</a></font><font size="4">.<br>
 You can reach me via email: liulch [at] mit.edu.
 </font>
 </p>
