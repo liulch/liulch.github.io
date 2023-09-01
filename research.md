@@ -9,10 +9,11 @@ Working Papers
 </font>
 
 
-
+<p>
 <font size="3">
 1. Identification and Estimation of Treatment Effects from Social Network Data (job market paper).
 </font> [[draft](../Net_JMP_Liu.pdf)]
+</p>
   
 <font size="3">
 <p>
@@ -38,9 +39,11 @@ Peer Reviewed Articles
 </font> 
 
 
+<p>
 <font size="3">
 1. Panel Data Visualization in R (panelView) and Stata (panelview) (with Hongyu Mou and Yiqing Xu), conditionally accepted at Journal of Statistical Software.
 </font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202154">Pre-Print</a>] 
+</p>
 
 
 <p>
