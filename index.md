@@ -3,10 +3,9 @@ layout: page
 title:  About
 permalink: /
 ---
-<span style="font-size: 48px; font-weight: bold;">  
+<font size="4">
 Welcome! 
-</span> 
-
+</font> 
 
 <font size="2"> I am a Ph.D. candidate in </font>  
 <font size="2"><a href="https://polisci.mit.edu">Political Science</a></font>
@@ -14,9 +13,7 @@ Welcome!
 <font size="2"><a href="https://idss.mit.edu">Statistics</a></font>
 <font size="2"> at Massachusetts Institute of Technology. I work in Political Methodology and Political Economy. My research interests include causal inference, applied Bayesian statistics and network analysis. I am also broadlly interested in international and comparative political economy. </font>
 
-
 <font size="2"> My work has appeared in American Journal of Political Science, Political Analysis, Political Science Research and Methods. My most recent CV can be downloaded </font> here <font size="3">.</font>
-
 
 <font size="2"> You can reach me via email: liulch [at] mit.edu. </font>
 
