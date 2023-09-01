@@ -5,7 +5,9 @@ permalink: /Research
 ---
 
 
-## Working Papers 
+<font size="5">
+Working Papers
+</font> 
 
 <p>
 <font size="3">
@@ -32,8 +34,9 @@ permalink: /Research
 </font>  
 
 
-
-## Peer Reviewed Articles
+<font size="5">
+Peer Reviewed Articles
+</font> 
 
 
 <p>
