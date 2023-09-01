@@ -8,7 +8,7 @@ permalink: /Research
 
 ## Working Papers 
 
-1. Identification and Estimation of Treatment Effects from Social Network Data (job market paper). []
+1. Identification and Estimation of Treatment Effects from Social Network Data (job market paper). [[draft](../Net_JMP_Liu.pdf)]
   
 2. Bayesian Sensitivity Analysis for Unmeasured Confounding in Causal Panel Data Models (with Teppei Yamamoto).
 
