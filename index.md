@@ -7,7 +7,10 @@ permalink: /
 
 # Welcome! 
 
-I am a Ph.D. candidate in [Political Science](https://polisci.mit.edu) and [Statistics] (https://idss.mit.edu) at Massachusetts Institute of Technology. I work in political methodology and political economy. My research interests include causal inference, applied Bayesian statistics and network analysis. I am also broadlly interested in international and comparative political economy.  
+
+
+
+I am a Ph.D. candidate in [Political Science](https://polisci.mit.edu) and [Statistics](https://idss.mit.edu) at Massachusetts Institute of Technology. I work in political methodology and political economy. My research interests include causal inference, applied Bayesian statistics and network analysis. I am also broadlly interested in international and comparative political economy.  
 
 My work has appeared in American Journal of Political Science, Political Analysis, Political Science Research and Methods. My most recent CV can be downloaded here.
 
