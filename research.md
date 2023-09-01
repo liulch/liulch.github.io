@@ -4,12 +4,10 @@ layout: page
 permalink: /Research
 ---
 
-
-<p>
 <font size="4">
 Working Papers
 </font>
-</p>
+
 
 
 <font size="3">
@@ -35,12 +33,9 @@ Working Papers
 </font>  
 
 
-<p>
 <font size="4">
 Peer Reviewed Articles
 </font> 
-</p>
-
 
 
 <font size="3">
