@@ -3,6 +3,11 @@ description: "A jekyll theme inspired by linux consoles for hackers, developers 
 baseurl: "/jekyll-theme-console-demo-light"
 url: "https://b2a3e8.github.io"
 
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
+theme: jekyll-theme-console
+
 header_pages:
   - index.md
   - peter.md
@@ -13,7 +18,3 @@ style: light
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
-# Build settings
-markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
-theme: jekyll-theme-console
