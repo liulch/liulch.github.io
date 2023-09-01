@@ -4,7 +4,9 @@ layout: page
 permalink: /Teaching
 ---
 
-<h2 style="font-size: 100px;">Department of Political Science, MIT</h2>
+<font size="5">
+Peer Reviewed Articles
+</font>
 
 <font size="3">
 <p>
