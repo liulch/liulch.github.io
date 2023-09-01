@@ -34,11 +34,10 @@ Working Papers
 </font>  
 
 
-<p>
 <font size="4">
 Peer Reviewed Articles
 </font> 
-</p>
+
 
 
 <p>
