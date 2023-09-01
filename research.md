@@ -27,11 +27,11 @@ Working Papers
 </p>
 </font>  
 
-<font size="3">
 <p>
+<font size="3">
 4. Bayesian Causal Inference with Longitudinal Network Data in the Presence of Interference (with Xun Pang).
+</font> 
 </p>
-</font>  
 
 
 <font size="4">
