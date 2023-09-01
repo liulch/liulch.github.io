@@ -7,10 +7,10 @@ permalink: /Teaching
 
 ## Department of Political Science, MIT
 
-1. Graduate Student Math Camp II, Instructor, Summer 2023 & 2022.
+<font size="3">1. Graduate Student Math Camp II, Instructor, Summer 2023 & 2022.</font>
 
-2. Political Methodology Workshop Series - Network Analysis II, Instructor, Spring 2023.
+<font size="3">2. Political Methodology Workshop Series - Network Analysis II, Instructor, Spring 2023.</font>
 
-3. Quantitative Research Methods III, Teaching Assistant, Fall 2022.
+<font size="3">3. Quantitative Research Methods III, Teaching Assistant, Fall 2022.</font>
 
-4. Quantitative Research Methods II, Teaching Assistant, Spring 2022.
+<font size="3">4. Quantitative Research Methods II, Teaching Assistant, Spring 2022.</font>
