@@ -1,4 +1,5 @@
 ---
+layout: page
 title: /
 layout: home
 permalink: /
