@@ -4,7 +4,6 @@ layout: page
 permalink: /Research
 ---
 
-# Research Papers 
 
 ## Working Papers 
 
