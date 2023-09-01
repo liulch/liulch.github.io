@@ -4,7 +4,9 @@ title:  About
 permalink: /
 ---
 
-<font size="4">  Welcome! </font> 
+<span style="font-size: 24px; font-weight: bold;">  
+Welcome! 
+</span> 
 
 <br/>
 <font size="2"> I am a Ph.D. candidate in </font>  
