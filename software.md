@@ -6,9 +6,7 @@ permalink: /Software/
 
 
 <font size="4">
-<p>
 With coauthors and collaborators, I developed statistical routines for data visualization and analyses purposes.
-</p>
 </font>
 
 <font size="3">
