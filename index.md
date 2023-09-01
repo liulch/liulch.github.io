@@ -16,8 +16,7 @@ Welcome!
 
 
 <font size="4"> My work has appeared in American Journal of Political Science, Political Analysis, and Political Science Research and Methods. My most recent CV can be downloaded </font> 
-<font size="4"><a href="https://liulch.github.io/CV_Liu.pdf">here</a></font> 
-<font size="4">.</font>  
+<font size="4"><a href="https://liulch.github.io/CV_Liu.pdf">here</a></font><font size="4">.</font>  
 
 
 
