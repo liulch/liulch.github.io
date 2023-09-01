@@ -11,11 +11,9 @@ permalink: /Research
 <font size="3">1. Identification and Estimation of Treatment Effects from Social Network Data (job market paper).</font> [[draft](../Net_JMP_Liu.pdf)]
   
 <font size="3">2. Bayesian Sensitivity Analysis for Unmeasured Confounding in Causal Panel Data Models (with Teppei Yamamoto).</font>  
-
-
+<!-- force a new paragraph -->
 <font size="3">3. Estimating Treatment Effects from Time-Series Cross-Sectional Data with Binary Outcomes.</font>  
-
-
+<!-- force a new paragraph -->
 <font size="3">4. Bayesian Causal Inference with Longitudinal Network Data in the Presence of Interference (with Xun Pang).</font>  
 
 
