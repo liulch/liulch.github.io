@@ -1,5 +1,5 @@
 title: 'liulch.github.io'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+description: "Licheng Liu's Personal Website."
 baseurl: ""
 url: "https://liulch.github.io"
 
@@ -16,5 +16,5 @@ header_pages:
 
 style: light 
 
-footer: '<a href="https://twitter.com/liulch16">Twitter</a> <a href="https://scholar.google.com/citations?user=xbcmrRAAAAAJ&hl=zh-CN">Google Scholar'
+footer: '<a href="https://scholar.google.com/citations?user=xbcmrRAAAAAJ&hl=zh-CN">Google Scholar <a href="https://github.com/liulch">GitHub</a> <a href="https://twitter.com/liulch16">Twitter</a>'
 
