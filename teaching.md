@@ -4,7 +4,6 @@ layout: page
 permalink: /Teaching
 ---
 
-# Teaching Experience
 
 ## Department of Political Science, MIT
 
