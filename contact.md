@@ -1,7 +1,7 @@
 ---
-title: /contact
+title: /Teaching
 layout: page
-permalink: /contact
+permalink: /Teaching
 ---
 
 # Get in touch?
