@@ -3,8 +3,7 @@ layout: page
 title:  About
 permalink: /
 ---
-
-<span style="font-size: 24px; font-weight: bold;">  
+<span style="font-size: 48px; font-weight: bold;">  
 Welcome! 
 </span> 
 
