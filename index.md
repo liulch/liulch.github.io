@@ -12,7 +12,7 @@ Welcome!
 <font size="2"><a href="https://polisci.mit.edu">Political Science</a></font>
 <font size="2"> and </font>
 <font size="2"><a href="[https://polisci.mit.edu](https://idss.mit.edu)">Statistics</a></font>
-<font size="2"> at Massachusetts Institute of Technology. I work in political methodology and political economy. My research interests include causal inference, applied Bayesian statistics and network analysis. I am also broadlly interested in international and comparative political economy. </font>
+<font size="2"> at Massachusetts Institute of Technology. I work in Political Methodology and Political Economy. My research interests include causal inference, applied Bayesian statistics and network analysis. I am also broadlly interested in international and comparative political economy. </font>
 
 <br/> 
 <font size="2"> My work has appeared in American Journal of Political Science, Political Analysis, Political Science Research and Methods. My most recent CV can be downloaded </font> here <font size="3">.</font>
