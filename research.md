@@ -8,7 +8,7 @@ permalink: /Research
 
 ## Working Papers 
 
-1. Identification and Estimation of Treatment Effects from Social Network Data (job market paper).
+1. Identification and Estimation of Treatment Effects from Social Network Data (job market paper). []
   
 2. Bayesian Sensitivity Analysis for Unmeasured Confounding in Causal Panel Data Models (with Teppei Yamamoto).
 
@@ -25,5 +25,5 @@ permalink: /Research
 
 4. A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data (with Ye Wang and Yiqing Xu), forthcoming at American Journal of Political Science.
 
-6. A Bayesian Alternative to the Synthetic Control Method (with Xun Pang and Yiqing Xu), Political Analysis.
+6. A Bayesian Alternative to the Synthetic Control Method (with Xun Pang and Yiqing Xu), Political Analysis. [Post-Print] [Pre-Print] [Replication Files]
 
