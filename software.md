@@ -4,9 +4,8 @@ title: /Software
 permalink: /Software/
 ---
 
-# Software
 
-<font size="3">With coauthors and collaborators, I developed statistical routines for data visualization and analyses purposes.</font>
+<font size="4">With coauthors and collaborators, I developed statistical routines for data visualization and analyses purposes.</font>
 <!-- force a new paragraph -->
 <font size="3">1. "bpCausal: Bayesian Causal Inference with Panel Data" (with Xun Pang and Yiqing Xu) available through GitHub. 2021.</font>
 <!-- force a new paragraph -->
