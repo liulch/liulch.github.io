@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Licheng Liu
-label: Licheng Liu
 permalink: /
 ---
 
