@@ -9,11 +9,14 @@ Working Papers
 </font>
 
 
-<p>
+
 <font size="3">
+<p>
 1. Identification and Estimation of Treatment Effects from Social Network Data (job market paper).
-</font> [<font size="3"><a href="https://liulch.github.io/Net_JMP_Liu.pdf">draft</a></font>]
+</font> [<font size="3"><a href="https://liulch.github.io/Net_JMP_Liu.pdf">draft</a>
 </p>
+</font>]
+
   
 <font size="3">
 <p>
@@ -40,15 +43,17 @@ Peer Reviewed Articles
 
 
 
-<p>
+
 <font size="3">
+<p>
 1. Panel Data Visualization in R (panelView) and Stata (panelview) (with Hongyu Mou and Yiqing Xu), conditionally accepted at Journal of Statistical Software.
-</font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202154">Pre-Print</a>] 
+[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202154">Pre-Print</a>] 
 </p>
+</font> 
 
 
-<p>
 <font size="3">
+<p>
 2. A Bayesian Multifactor Spatio-Temporal Model for Estimating Time-Varying Network Interdependence (with Xun Pang), forthcoming at Political Science Research and Methods.
 </font> [<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/bayesian-multifactor-spatiotemporal-model-for-estimating-timevarying-network-interdependence/4BA3382FCC76830D7918E51678DDC1DE">First View</a>] [<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B5RVWB">Replication Files</a>]
 </p>
