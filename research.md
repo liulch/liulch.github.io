@@ -13,7 +13,7 @@ Working Papers
 <font size="3">
 <p>
 1. Identification and Estimation of Treatment Effects from Social Network Data (job market paper).
-</font> [<font size="3"><a href="https://liulch.github.io/Net_JMP_Liu.pdf">draft</a>]
+</font> [<font size="3"><a href="https://liulch.github.io/Net_JMP_Liu.pdf">draft]</a>
 </p>
 </font>
 
